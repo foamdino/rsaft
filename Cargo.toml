@@ -1,0 +1,7 @@
+[package]
+name = "rsaft"
+version = "0.1.0"
+authors = ["Kev Jackson <kevin.jackson@thehutgroup.com>"]
+edition = "2018"
+
+[dependencies]
